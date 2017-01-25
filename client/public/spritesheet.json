@@ -1,0 +1,25 @@
+{
+	"meta": {
+		"image": "spritesheet.png",
+		"size": {"w":128,"h":64},
+		"scale": "1"
+	},
+	"frames": {
+		"move-to.png":
+		{
+			"frame": {"x":1,"y":1,"w":40,"h":52},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":40,"h":52},
+			"sourceSize": {"w":40,"h":52}
+		},
+		"grass.png":
+		{
+			"frame": {"x":43,"y":1,"w":48,"h":48},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+			"sourceSize": {"w":48,"h":48}
+		}
+	}
+}
