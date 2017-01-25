@@ -1,6 +1,4 @@
-Ludum Dare 35: Shapeshift
+Based on [endel/ld35](https://github.com/endel/ld35)
 ---
 
-Yet another multiplayer attempt in 72h using
-[Colyseus](https://github.com/gamestdio/colyseus) as game server.
-
+```sh dev.sh```
